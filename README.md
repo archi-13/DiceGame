@@ -1,2 +1,2 @@
-# DiceGame
-a 2 player DiceGame for fun
+# thedicegame
+a two dice game which can be played between two players
